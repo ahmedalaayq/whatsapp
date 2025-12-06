@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Ahmed Alaayq**
-- GitHub: [@yourusername](https://github.com/ahmedalaayq)
+- GitHub: [@ahmedalaayq](https://github.com/ahmedalaayq)
 ## 🙏 Acknowledgments
 
 - Inspired by [WhatsApp](https://www.whatsapp.com/)
