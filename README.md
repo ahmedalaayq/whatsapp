@@ -39,7 +39,7 @@ A beautiful and modern WhatsApp UI clone built with Flutter, featuring a pixel-p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/whatsapp-ui-clone.git
+   git clone https://github.com/ahmedalaayq/whatsapp-ui-clone.git
    cd whatsapp-ui-clone
    ```
 
